@@ -1,4 +1,3 @@
-# token git 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
 import requests
 import functions_framework
 import os
