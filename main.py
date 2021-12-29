@@ -3,7 +3,6 @@ import os
 import time
 import traceback
 
-import functions_framework
 import requests
 from dotenv import load_dotenv
 from flask import abort
